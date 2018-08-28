@@ -1,0 +1,100 @@
+LocationName,ISO,country,region,world_region,MPI,geo,lat,lon
+"Badakhshan, Afghanistan",AFG,Afghanistan,Badakhshan,South Asia,0.387,"(36.7347725, 70.81199529999999)",36.7347725,70.8119953
+"Badghis, Afghanistan",AFG,Afghanistan,Badghis,South Asia,0.466,"(35.1671339, 63.7695384)",35.1671339,63.7695384
+"Baghlan, Afghanistan",AFG,Afghanistan,Baghlan,South Asia,0.3,"(35.8042947, 69.2877535)",35.8042947,69.2877535
+"Balkh, Afghanistan",AFG,Afghanistan,Balkh,South Asia,0.301,"(36.7550603, 66.8975372)",36.7550603,66.8975372
+"Bamyan, Afghanistan",AFG,Afghanistan,Bamyan,South Asia,0.325,"(34.8100067, 67.8212104)",34.8100067,67.8212104
+"Daykundi, Afghanistan",AFG,Afghanistan,Daykundi,South Asia,0.313,"(33.669495, 66.0463534)",33.669495,66.0463534
+"Farah, Afghanistan",AFG,Afghanistan,Farah,South Asia,0.319,"(32.4464635, 62.1454133)",32.4464635,62.1454133
+"Faryab, Afghanistan",AFG,Afghanistan,Faryab,South Asia,0.25,"(36.0795613, 64.90595499999999)",36.0795613,64.905955
+"Ghazni, Afghanistan",AFG,Afghanistan,Ghazni,South Asia,0.245,"(33.5450587, 68.4173972)",33.5450587,68.4173972
+"Ghor, Afghanistan",AFG,Afghanistan,Ghor,South Asia,0.384,"(34.0995776, 64.90595499999999)",34.0995776,64.905955
+"Helmand, Afghanistan",AFG,Afghanistan,Helmand,South Asia,0.261,"(31.3636474, 63.95861110000001)",31.3636474,63.9586111
+"Herat, Afghanistan",AFG,Afghanistan,Herat,South Asia,0.353,"(11.6155109, 104.3791912)",11.6155109,104.3791912
+"Jawzjan, Afghanistan",AFG,Afghanistan,Jawzjan,South Asia,0.293,"(36.8969692, 65.6658568)",36.8969692,65.6658568
+"Kabul, Afghanistan",AFG,Afghanistan,Kabul,South Asia,0.117,"(34.5553494, 69.207486)",34.5553494,69.207486
+"Kandahar, Afghanistan",AFG,Afghanistan,Kandahar,South Asia,0.437,"(31.628871, 65.7371749)",31.628871,65.7371749
+"Kapisa, Afghanistan",AFG,Afghanistan,Kapisa,South Asia,0.28,"(34.9810572, 69.6214562)",34.9810572,69.6214562
+"Khost, Afghanistan",AFG,Afghanistan,Khost,South Asia,0.296,"(33.3338472, 69.9371673)",33.3338472,69.9371673
+"Kunarha, Afghanistan",AFG,Afghanistan,Kunarha,South Asia,0.269,"(34.8465893, 71.097317)",34.8465893,71.097317
+"Kunduz, Afghanistan",AFG,Afghanistan,Kunduz,South Asia,0.294,"(36.7285907, 68.8680663)",36.7285907,68.8680663
+"Laghman, Afghanistan",AFG,Afghanistan,Laghman,South Asia,0.369,"(34.6897687, 70.1455805)",34.6897687,70.1455805
+"Logar, Afghanistan",AFG,Afghanistan,Logar,South Asia,0.187,"(34.0145518, 69.1923916)",34.0145518,69.1923916
+"Nangarhar, Afghanistan",AFG,Afghanistan,Nangarhar,South Asia,0.287,"(34.1718313, 70.6216794)",34.1718313,70.6216794
+"Nimroz, Afghanistan",AFG,Afghanistan,Nimroz,South Asia,0.231,"(31.0261488, 62.4504154)",31.0261488,62.4504154
+"Nooristan, Afghanistan",AFG,Afghanistan,Nooristan,South Asia,0.611,"(35.3250223, 70.90712359999999)",35.3250223,70.9071236
+"Paktika, Afghanistan",AFG,Afghanistan,Paktika,South Asia,0.137,"(32.2645386, 68.52471489999999)",32.2645386,68.5247149
+"Paktya, Afghanistan",AFG,Afghanistan,Paktya,South Asia,0.218,"(33.706199, 69.3831079)",33.706199,69.3831079
+"Panjsher, Afghanistan",AFG,Afghanistan,Panjsher,South Asia,0.12,"(35.5025772, 69.9550338)",35.5025772,69.9550338
+"Parwan, Afghanistan",AFG,Afghanistan,Parwan,South Asia,0.294,"(34.9630977, 68.81088489999999)",34.9630977,68.8108849
+"Samangan, Afghanistan",AFG,Afghanistan,Samangan,South Asia,0.35,"(35.9807296, 67.57085359999999)",35.9807296,67.5708536
+"Sar-E-Pul, Afghanistan",AFG,Afghanistan,Sar-E-Pul,South Asia,0.341,"(35.6707473, 66.0463534)",35.6707473,66.0463534
+"Takhar, Afghanistan",AFG,Afghanistan,Takhar,South Asia,0.361,"(36.6698013, 69.4784541)",36.6698013,69.4784541
+"Urozgan, Afghanistan",AFG,Afghanistan,Urozgan,South Asia,0.624,"(32.9271287, 66.1415263)",32.9271287,66.1415263
+"Wardak, Afghanistan",AFG,Afghanistan,Wardak,South Asia,0.34,"(34.3513494, 68.2385339)",34.3513494,68.2385339
+"Zabul, Afghanistan",AFG,Afghanistan,Zabul,South Asia,0.175,"(32.1918782, 67.1894488)",32.1918782,67.1894488
+,ALB,Albania,,Europe and Central Asia,,"(1000.0, 1000.0)",,
+,ARM,Armenia,,Europe and Central Asia,,"(1000.0, 1000.0)",,
+,AZE,Azerbaijan,,Europe and Central Asia,,"(1000.0, 1000.0)",,
+"Bujumbura Mairie, Burundi",BDI,Burundi,Bujumbura Mairie,Sub-Saharan Africa,0.164,"(-3.4146958, 29.3598782)",-3.4146958,29.3598782
+"Nord, Burundi",BDI,Burundi,Nord,Sub-Saharan Africa,0.501,"(-3.373056, 29.918886)",-3.373056,29.918886
+"Centre-Est, Burundi",BDI,Burundi,Centre-Est,Sub-Saharan Africa,0.473,"(9.0630743, 7.464915)",9.0630743,7.464915
+"Ouest, Burundi",BDI,Burundi,Ouest,Sub-Saharan Africa,0.499,"(-3.373056, 29.918886)",-3.373056,29.918886
+"Sud, Burundi",BDI,Burundi,Sud,Sub-Saharan Africa,0.422,"(14.6090537, 121.0222565)",14.6090537,121.0222565
+"Alibori, Benin",BEN,Benin,Alibori,Sub-Saharan Africa,0.528,"(10.9681093, 2.7779813)",10.9681093,2.7779813
+"Atacora, Benin",BEN,Benin,Atacora,Sub-Saharan Africa,0.454,"(10.7954931, 1.6760691)",10.7954931,1.6760691
+"Atlantique, Benin",BEN,Benin,Atlantique,Sub-Saharan Africa,0.278,"(6.6588391, 2.2236667)",6.6588391,2.2236667
+"Borgou, Benin",BEN,Benin,Borgou,Sub-Saharan Africa,0.351,"(9.5340864, 2.7779813)",9.5340864,2.7779813
+"Collines, Benin",BEN,Benin,Collines,Sub-Saharan Africa,0.292,"(13.718252, -2.302446)",13.718252,-2.302446
+"Couffo, Benin",BEN,Benin,Couffo,Sub-Saharan Africa,0.345,"(7.003589400000001, 1.7538817)",7.0035894,1.7538817
+"Donga, Benin",BEN,Benin,Donga,Sub-Saharan Africa,0.335,"(9.7191867, 1.6760691)",9.7191867,1.6760691
+"Littoral, Benin",BEN,Benin,Littoral,Sub-Saharan Africa,0.083,"(6.3806973, 2.4406387)",6.3806973,2.4406387
+"Mono, Benin",BEN,Benin,Mono,Sub-Saharan Africa,0.259,"(6.6607182, 1.7538817)",6.6607182,1.7538817
+"Ouðmð, Benin",BEN,Benin,Ouðmð,Sub-Saharan Africa,0.238,"(1000.0, 1000.0)",,
+"Plateau, Benin",BEN,Benin,Plateau,Sub-Saharan Africa,0.347,"(7.3445141, 2.539603)",7.3445141,2.539603
+"Zou, Benin",BEN,Benin,Zou,Sub-Saharan Africa,0.334,"(7.346926799999999, 2.0665197)",7.3469268,2.0665197
+"Boucle de mouhoun, Burkina Faso",BFA,Burkina Faso,Boucle de mouhoun,Sub-Saharan Africa,0.591,"(8.8556838, 7.179025999999999)",8.8556838,7.179026
+"Cascades, Burkina Faso",BFA,Burkina Faso,Cascades,Sub-Saharan Africa,0.493,"(10.4072992, -4.5624426)",10.4072992,-4.5624426
+"Centre, Burkina Faso",BFA,Burkina Faso,Centre,Sub-Saharan Africa,0.207,"(12.3425897, -1.443469)",12.3425897,-1.443469
+"Centre-est, Burkina Faso",BFA,Burkina Faso,Centre-est,Sub-Saharan Africa,0.58,"(11.5247674, -0.1494988)",11.5247674,-0.1494988
+"Centre-nord, Burkina Faso",BFA,Burkina Faso,Centre-nord,Sub-Saharan Africa,0.575,"(13.1724464, -0.9056623)",13.1724464,-0.9056623
+"Centre-ouest, Burkina Faso",BFA,Burkina Faso,Centre-ouest,Sub-Saharan Africa,0.554,"(11.8798466, -2.302446)",11.8798466,-2.302446
+"Centre-sud, Burkina Faso",BFA,Burkina Faso,Centre-sud,Sub-Saharan Africa,0.513,"(11.5228911, -1.0586135)",11.5228911,-1.0586135
+"Est, Burkina Faso",BFA,Burkina Faso,Est,Sub-Saharan Africa,0.698,"(12.4365526, 0.9056623)",12.4365526,0.9056623
+"Hauts basins, Burkina Faso",BFA,Burkina Faso,Hauts basins,Sub-Saharan Africa,0.459,"(11.4942003, -4.2333355)",11.4942003,-4.2333355
+"Nord, Burkina Faso",BFA,Burkina Faso,Nord,Sub-Saharan Africa,0.581,"(1000.0, 1000.0)",,
+"Plateau central, Burkina Faso",BFA,Burkina Faso,Plateau central,Sub-Saharan Africa,0.524,"(12.2537648, -0.7532808999999999)",12.2537648,-0.7532809
+"Sahel, Burkina Faso",BFA,Burkina Faso,Sahel,Sub-Saharan Africa,0.69,"(14.1000865, -0.1494988)",14.1000865,-0.1494988
+"Sud-ouest, Burkina Faso",BFA,Burkina Faso,Sud-ouest,Sub-Saharan Africa,0.655,"(10.4231493, -3.2583626)",10.4231493,-3.2583626
+"Barisal, Bangladesh",BGD,Bangladesh,Barisal,South Asia,0.224,"(22.7029212, 90.3465971)",22.7029212,90.3465971
+"Chittagong, Bangladesh",BGD,Bangladesh,Chittagong,South Asia,0.186,"(22.3475365, 91.8123324)",22.3475365,91.8123324
+"Dhaka, Bangladesh",BGD,Bangladesh,Dhaka,South Asia,0.174,"(23.810332, 90.4125181)",23.810332,90.4125181
+"Khulna, Bangladesh",BGD,Bangladesh,Khulna,South Asia,0.156,"(22.845641, 89.5403279)",22.845641,89.5403279
+"Rajshahi, Bangladesh",BGD,Bangladesh,Rajshahi,South Asia,0.192,"(24.3635886, 88.62413509999999)",24.3635886,88.6241351
+"Rangpur, Bangladesh",BGD,Bangladesh,Rangpur,South Asia,0.206,"(25.7438916, 89.275227)",25.7438916,89.275227
+"Sylhet, Bangladesh",BGD,Bangladesh,Sylhet,South Asia,0.32,"(24.904539, 91.8611011)",24.904539,91.8611011
+,BIH,Bosnia and Herzegovina,,Europe and Central Asia,,"(1000.0, 1000.0)",,
+"Corozal, Belize",BLZ,Belize,Corozal,Latin America and Caribbean,0.026,"(18.4030802, -88.3967536)",18.4030802,-88.3967536
+"Orange Walk, Belize",BLZ,Belize,Orange Walk,Latin America and Caribbean,0.019,"(18.0842472, -88.5710266)",18.0842472,-88.5710266
+"Belize (excluding Belize City South Side), Belize",BLZ,Belize,Belize (excluding Belize City South Side),Latin America and Caribbean,0.005,"(30.7326622, 31.7195459)",30.7326622,31.7195459
+"Stann Creek, Belize",BLZ,Belize,Stann Creek,Latin America and Caribbean,0.013,"(16.8116631, -88.4016041)",16.8116631,-88.4016041
+"Toledo, Belize",BLZ,Belize,Toledo,Latin America and Caribbean,0.019,"(16.2491923, -88.86469799999999)",16.2491923,-88.864698
+"Cayo, Belize",BLZ,Belize,Cayo,Latin America and Caribbean,0.054,"(17.0984445, -88.94138650000001)",17.0984445,-88.9413865
+"Belize City South Side, Belize",BLZ,Belize,Belize City South Side,Latin America and Caribbean,0.005,"(17.4891317, -88.188656)",17.4891317,-88.188656
+"Chuquisaca, Bolivia, Plurinational State of",BOL,"Bolivia, Plurinational State of",Chuquisaca,Latin America and Caribbean,0.145,"(-20.0249144, -64.1478236)",-20.0249144,-64.1478236
+"La Paz, Bolivia, Plurinational State of",BOL,"Bolivia, Plurinational State of",La Paz,Latin America and Caribbean,0.077,"(-16.489689, -68.11929359999999)",-16.489689,-68.1192936
+"Cochabamba, Bolivia, Plurinational State of",BOL,"Bolivia, Plurinational State of",Cochabamba,Latin America and Caribbean,0.105,"(-17.4139766, -66.1653224)",-17.4139766,-66.1653224
+"Oruro, Bolivia, Plurinational State of",BOL,"Bolivia, Plurinational State of",Oruro,Latin America and Caribbean,0.073,"(26.9373041, 90.4879916)",26.9373041,90.4879916
+"Potosð, Bolivia, Plurinational State of",BOL,"Bolivia, Plurinational State of",Potosð,Latin America and Caribbean,0.168,"(1000.0, 1000.0)",,
+"Tarija, Bolivia, Plurinational State of",BOL,"Bolivia, Plurinational State of",Tarija,Latin America and Caribbean,0.081,"(-21.5213825, -64.7280952)",-21.5213825,-64.7280952
+"Santa Cruz, Bolivia, Plurinational State of",BOL,"Bolivia, Plurinational State of",Santa Cruz,Latin America and Caribbean,0.043,"(-17.8145819, -63.1560853)",-17.8145819,-63.1560853
+"Beni, Bolivia, Plurinational State of",BOL,"Bolivia, Plurinational State of",Beni,Latin America and Caribbean,0.099,"(-14.3782747, -65.0957792)",-14.3782747,-65.0957792
+"Pando, Bolivia, Plurinational State of",BOL,"Bolivia, Plurinational State of",Pando,Latin America and Caribbean,0.087,"(-10.7988901, -66.9988011)",-10.7988901,-66.9988011
+"Acre, Brazil",BRA,Brazil,Acre,Latin America and Caribbean,0.072,"(-9.0237964, -70.81199529999999)",-9.0237964,-70.8119953
+"Alagoas, Brazil",BRA,Brazil,Alagoas,Latin America and Caribbean,0.042,"(-9.5713058, -36.7819505)",-9.5713058,-36.7819505
+"Amapð, Brazil",BRA,Brazil,Amapð,Latin America and Caribbean,0.022,"(1000.0, 1000.0)",,
+"Amazonas, Brazil",BRA,Brazil,Amazonas,Latin America and Caribbean,0.044,"(-3.4168427, -65.8560646)",-3.4168427,-65.8560646
+"Bahia, Brazil",BRA,Brazil,Bahia,Latin America and Caribbean,0.029,"(-12.579738, -41.7007272)",-12.579738,-41.7007272
+"Cearð, Brazil",BRA,Brazil,Cearð,Latin America and Caribbean,0.029,"(-21.3223397, -46.36941789999999)",-21.3223397,-46.3694179
+"Distrito Federal, Brazil",BRA,Brazil,Distrito Federal,Latin America and Caribbean,0.008,"(-15.7997654, -47.8644715)",-15.7997654,-47.8644715
+"Espðrito Santo, Brazil",BRA,Brazil,Espðrito Santo,Latin America and Caribbean,0.018,"(1000.0, 1000.0)",,
